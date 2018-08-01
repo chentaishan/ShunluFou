@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ahlib_common_sliding_scroll_view_horizontal">18dp</dimen>
+    <!-- 降价活动画红点y轴 -->
+    <dimen name="ahlib_common_sliding_scroll_view_vertical">-9dp</dimen>
+    <!-- 画红点圆半径 -->
+    <dimen name="ahlib_common_sliding_scroll_view_radius">3dp</dimen>
+</resources>

@@ -1,0 +1,3 @@
+//include ':ahcommonlib'
+//include ':autohomelib'
+include ':app'

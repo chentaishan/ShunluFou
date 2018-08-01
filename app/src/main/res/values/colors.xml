@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="common_color09">#ffffff</color>
+
+    <color name="common_color02">#333333</color>
+    <color name="common_color03">#ff651a</color>
+    <color name="common_color04">#555555</color>
+    <color name="common_color05">#999999</color>
+    <color name="common_color06">#cccccc</color>
+    <color name="common_color07">#e9e9e9</color>
+
+    <color name="color_a1">#2873ff</color>
+    <color name="color_a1p">#2261d8</color>
+    <color name="color_a2">#f9712c</color>
+    <color name="color_a2p">#d46025</color>
+    <color name="color_a3">#fa595c</color>
+    <color name="color_a3p">#d44b4e</color>
+    <color name="color_a4">#45c186</color>
+    <color name="color_a4p">#389c6b</color>
+    <color name="color_a5">#894efa</color>
+    <color name="color_a5p">#7442de</color>
+    <color name="color_b6">#cccccc</color>
+    <color name="color_b7">#eeeeee</color>
+    <color name="color_b8">#f8f8f8</color>
+    <color name="color_b9">#ffffff</color>
+    <color name="color_b10">#e6e6e6</color>
+    <color name="color_b3">#666666</color>
+    <color name="color_b5">#c3c3c3</color>
+    <color name="color_b2">#333333</color>
+    <color name="color_b4">#999999</color>
+    <color name="color_b1">#1b1b1b</color>
+
+    <color name="color_a1_50">#8c2873ff</color>
+
+</resources>
