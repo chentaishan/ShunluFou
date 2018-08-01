@@ -11,15 +11,8 @@ import android.widget.Button;
 import com.shunlufou.R;
 import com.shunlufou.net.GetSMSCodeRequest;
 import com.shunlufou.utils.LogUtil;
-import com.squareup.okhttp.Call;
-import com.squareup.okhttp.Callback;
-import com.squareup.okhttp.OkHttpClient;
-import com.squareup.okhttp.Request;
-import com.squareup.okhttp.Response;
 
 import java.io.IOException;
-import java.lang.reflect.Method;
-
 /**
  * Created by Chents on 2018/2/8.
  */
@@ -29,7 +22,6 @@ public class CustomFragment extends BaseFragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
         View view  = inflater.inflate(R.layout.custom_fragment,null);
-//        return super.onCreateView(inflater, container, savedInstanceState);
         initView(view);
         return view;
     }

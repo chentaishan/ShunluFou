@@ -2,8 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.shunlufou"
     android:versionCode="100"
-    android:versionName="1.0.0"
-    >
+    android:versionName="1.0.0">
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:name=".ShunApplication"
@@ -20,7 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".activity.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
-    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>

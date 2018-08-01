@@ -6,4 +6,5 @@
     <dimen name="ahlib_common_sliding_scroll_view_vertical">-9dp</dimen>
     <!-- 画红点圆半径 -->
     <dimen name="ahlib_common_sliding_scroll_view_radius">3dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
